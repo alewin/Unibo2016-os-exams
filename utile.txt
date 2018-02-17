@@ -1,0 +1,2 @@
+http://www.di.uevora.pt/~lmr/syscalls.html
+https://github.com/dksong/unix-syscall-examples/tree/master/src
